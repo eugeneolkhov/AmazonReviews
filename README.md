@@ -1,1 +1,0 @@
-# Please refer to the HTML file "Amazon Reviews Markdown" for a write up of the project including interactive visualizations.
